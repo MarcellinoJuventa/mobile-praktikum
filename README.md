@@ -1,17 +1,38 @@
-# aplikasi_pertama_i_kadek_very_andika
+\# Aplikasi Mobile
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+\## Tujuan
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proyek ini dibuat sebagai bagian dari praktikum Pemrograman Berbasis Mobile untuk mempelajari pengembangan aplikasi menggunakan Flutter serta penggunaan Git dan GitHub.
+
+
+
+\## Rencana Fitur
+
+
+
+\- Tampilan antarmuka aplikasi mobile
+
+\- Navigasi antar halaman
+
+\- Pengelolaan data sederhana
+
+\- Pengembangan fitur secara bertahap
+
+
+
+\## Cara Menjalankan
+
+
+
+1\. Pastikan Flutter sudah terpasang.
+
+2\. Buka terminal pada folder proyek.
+
+3\. Jalankan `flutter pub get`.
+
+4\. Jalankan aplikasi dengan `flutter run`.
+
